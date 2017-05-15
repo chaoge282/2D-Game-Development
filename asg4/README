@@ -1,0 +1,19 @@
+Name: Lichao Xu
+Clemson Email Address: lichao@clemson.edu
+course number: 6160
+
+project no: #4
+project due date: 8:00AM Oct,28,2016
+project description: This project aims to 
+    1.Create a player, use asdw to control the player. 
+    2.A Huds class that use aaline to provide a Heads Up Display.
+    3.learn to use Painter's algorithm to draw some objects with different scale.
+citation:   four monsters:2gei.com/sprite/list
+            wolf: 2gei.com/view/262-17326.html
+            girl: 2gei.com/view/24579.html
+            orbs: www.2gei.com/view/4576:.html?order=name&page=2
+final project description:
+    I would like to build a game that a super girl save a prince!
+    The girl can press a/d to move,press j to jump, press k/l to wave sword to
+    beat the monsters. There will be some monsters and some objects 
+    from sky. when she saved the prince, game is over.

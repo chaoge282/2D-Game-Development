@@ -1,0 +1,17 @@
+Name: lichao xu
+
+Clemson Email Address: lichao@clemson.edu
+
+Course number: 6160
+
+Project no: project #2
+
+Project due date: 8:00am 9/19/2016
+
+Project description: 
+	This project aims to illustrate the concepts described in lectures, the course videos, the slides, and the items in the Meyer's text. This annimation use single frames sprites and capture 60 frames per second using the game clock.
+
+
+Extra Contribution:
+	Created the class Sprite and Manager to update the state of sprite and manage the assets and sprites.Added the message with text in the animation.
+

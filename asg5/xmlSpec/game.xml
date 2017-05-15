@@ -1,0 +1,136 @@
+<?xml version = "1.0"?>
+<GameData>
+<!-- screenTitle is also used to identify you and your animation.
+     So make sure to include your name as part of the screenTitle -->
+<screenTitle>Lichao Xu's Knight Animation</screenTitle>
+<maxStringSize>50</maxStringSize>
+<numberOfOrbs>20</numberOfOrbs>
+<numberOfEnermy>10</numberOfEnermy>
+
+<frameCap>60</frameCap>
+<framesAreCapped>true</framesAreCapped>
+
+<frameMax>400</frameMax>
+<username>lichao</username>
+
+<view>
+  <width>854</width>
+  <height>480</height>
+</view>
+
+<world>
+  <width>2000</width>
+  <height>960</height>
+</world>
+
+<huds>
+  <x>7</x>
+  <y>15</y>
+  <length>260</length>
+  <width>220</width>
+  <thick>2</thick>
+</huds>
+
+<bullet>
+  <file>images/bullet3.png</file>
+  <frames>5</frames>
+  <frameInterval>20</frameInterval>
+  <lifetime>0</lifetime>
+  <chunk>
+    <size>10</size>
+    <distance>50</distance>
+  </chunk>
+  <transparency>true</transparency>
+</bullet>
+
+<ground>
+  <file>images/ground.png</file>
+  <red>193</red>
+  <green>205</green>
+  <blue>205</blue>
+  <factor>1</factor>
+  <transparency>true</transparency>
+</ground>
+
+<back>
+  <file>images/cloud.png</file>
+  <red>193</red>
+  <green>205</green>
+  <blue>205</blue>
+  <factor>2</factor>
+  <transparency>true</transparency>
+</back>
+
+<mountain>
+  <file>images/mountain.png</file>
+  <red>193</red>
+  <green>205</green>
+  <blue>205</blue>
+  <factor>4</factor>
+  <transparency>true</transparency>
+</mountain>
+
+<building>
+  <file>images/build.png</file>
+  <red>193</red>
+  <green>205</green>
+  <blue>205</blue>
+  <factor>6</factor>
+  <transparency>true</transparency>
+</building>
+
+<orbs>
+  <file>images/orb1.png</file>
+  <cushion>10</cushion>
+  <scale min="0.3" max="1.0"/>
+  <frames>5</frames>
+  <frameInterval>20</frameInterval>
+  <width>32</width>
+  <height>32</height>
+  <loc x="0" xm="1500" y="0"/>
+  <speed x="10" y="80"/>
+  <chunk>
+    <size>20</size>
+    <distance>100</distance>
+  </chunk>
+  <transparency>true</transparency>
+</orbs>
+
+<font name="font">
+  <file>font/dyslexic-bold.otf</file>
+  <size>16</size>
+  <red>0</red>
+  <green>0</green>
+  <blue>0</blue>
+  <unused>0</unused>
+</font>
+
+<smart>
+  <file>images/twoway.png</file>
+  <safeDis>160</safeDis>
+  <loc x="0" xm="2000" y="0" ym="960"/>
+  <speed x="0" xm="300" y="0" ym="300"/>
+  <frames>8</frames>
+  <frameInterval>20</frameInterval>
+  <chunk>
+    <size>20</size>
+    <distance>100</distance>
+  </chunk>
+  <transparency>true</transparency>
+</smart>
+
+<player>
+  <file>images/run2.png</file>
+  <startLoc x="10" y="830"/>
+  <frames>16</frames>
+  <frameInterval>20</frameInterval>
+  <speedX>200</speedX>
+  <speedY>-200</speedY>
+  <chunk>
+    <size>20</size>
+    <distance>100</distance>
+  </chunk>
+  <transparency>true</transparency>
+</player>
+
+</GameData>

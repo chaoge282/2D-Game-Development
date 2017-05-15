@@ -1,0 +1,37 @@
+
+Name: Lichao Xu
+Clemson Email Address: lichao@clemson.edu
+Course Number: 6160
+
+Project No: #6
+Project Due Date: noon DEC,3,2016
+
+Project Description: This project aims to 
+    1.AI 
+    2.add music and sound
+My Contributions:
+    1.made some smart sprites,when they died, they will avoid player automatically.
+    2.add the game sound.
+Final Project Description:
+    It is a game about competition which is compared by scores!
+    The knight can press a/d to move left/right, press j to shoot bullets, press k to jump.
+    The energy ball will grow for some time and you can shoot them to earn scores,
+    but the more you shoot, the bigger and faster they become.you can also shoot the sprites
+    to earn scores. they are infinite,they can also kill you.
+Playing:
+    press   'a'-left
+            'd'-right
+            'j'-shoot
+            'k'-jump
+            'o'-slow down
+            'p'-pause
+            'r'-reset game
+            'g'-godmode
+            't'-swich sprites
+            'F1'-help
+            'F4'-make video
+            'q' or 'esc'-quit
+Citation:
+            sprite: 2gei.com/view/262-17326.html
+            girl: 2gei.com/view/24579.html
+            orbs: http://www.2gei.com/view/9284.html?order=name&page=4
