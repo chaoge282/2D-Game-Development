@@ -1,0 +1,124 @@
+<?xml version = "1.0"?>
+<GameData>
+<!-- screenTitle is also used to identify you and your animation.
+     So make sure to include your name as part of the screenTitle -->
+<screenTitle>Lichao Xu's Knight Animation</screenTitle>
+<maxStringSize>50</maxStringSize>
+
+<frameCap>60</frameCap>
+<framesAreCapped>true</framesAreCapped>
+
+<frameMax>200</frameMax>
+<username>lichao</username>
+
+<view>
+  <width>854</width>
+  <height>480</height>
+</view>
+
+<world>
+  <width>2000</width>
+  <height>960</height>
+</world>
+
+
+<ground>
+  <file>images/111.png</file>
+  <red>193</red>
+  <green>205</green>
+  <blue>205</blue>
+  <factor>1</factor>
+  <transparency>true</transparency>
+</ground>
+
+<back>
+  <file>images/back33.png</file>
+  <red>193</red>
+  <green>205</green>
+  <blue>205</blue>
+  <factor>2</factor>
+  <transparency>true</transparency>
+</back>
+
+<mountain>
+  <file>images/44.png</file>
+  <red>193</red>
+  <green>205</green>
+  <blue>205</blue>
+  <factor>3</factor>
+  <transparency>true</transparency>
+</mountain>
+
+<building>
+  <file>images/222.png</file>
+  <red>193</red>
+  <green>205</green>
+  <blue>205</blue>
+  <factor>5</factor>
+  <transparency>true</transparency>
+</building>
+
+<font name="font">
+  <file>font/dyslexic-bold.otf</file>
+  <size>16</size>
+  <red>0</red>
+  <green>0</green>
+  <blue>0</blue>
+  <unused>0</unused>
+</font>
+
+<run>
+  <file>images/run.png</file>
+  <startLoc x="10" y="800"/>
+  <frames>16</frames>
+  <frameInterval>20</frameInterval>
+  <speedX>200</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+</run>
+
+
+<wolf>
+  <file>images/wolf1.png</file>
+  <startLoc x="320" y="240"/>
+  <frames>4</frames>
+  <frameInterval>20</frameInterval>
+  <speedX>170</speedX>
+  <speedY>100</speedY>
+  <transparency>true</transparency>
+</wolf>
+
+<monster4>
+  <file>images/monster4.png</file>
+  <startLoc x="320" y="240"/>
+  <speedX>100</speedX>
+  <speedY>100</speedY>
+  <transparency>true</transparency>
+</monster4>
+
+<monster3>
+  <file>images/monster3.png</file>
+  <startLoc x="320" y="240"/>
+  <speedX>-100</speedX>
+  <speedY>-100</speedY>
+  <transparency>true</transparency>
+</monster3>
+
+
+<monster2>
+  <file>images/monster2.png</file>
+  <startLoc x="320" y="240"/>
+  <speedX>-175</speedX>
+  <speedY>-175</speedY>
+  <transparency>true</transparency>
+</monster2>
+
+<monster1>
+  <file>images/monster1.png</file>
+  <startLoc x="320" y="240"/>
+  <speedX>175</speedX>
+  <speedY>175</speedY>
+  <transparency>true</transparency>
+</monster1>
+
+</GameData>
